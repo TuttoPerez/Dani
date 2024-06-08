@@ -10,7 +10,7 @@ $('document').ready(function() {
             const canvasC = document.getElementById('c');
 
             const config = {
-                birthdate: 'Junio 10, 2023',
+                birthdate: 'Junio 10, 2024',
                 name: 'DANIELA'
             };
 
